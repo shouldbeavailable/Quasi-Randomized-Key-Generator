@@ -5,4 +5,4 @@ You need to pip install 2 things, in order to pip install you write in an empty 
  | pip install pyperclip
  | pip install tkinker | 
          Besides these two everything you need to know on how to use this is all commented inside of code. |  
-         :D
+         Also this code does not work in google colab instead run it on Jupyter which can be found on Anaconda
